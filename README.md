@@ -1,16 +1,31 @@
-# React + Vite
+# 🛍️ React Ecommerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional ecommerce web application built with React. Features include shopping cart with quantity management, user authentication (login/signup), and persistent data storage using localStorage.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🛒 **Shopping Cart** - Add, remove, and update product quantities
+- 📦 **Local Storage** - Cart persists even after page refresh
+- 👤 **User Authentication** - Sign up and login functionality
+- 🔢 **Quantity Controls** - Increase/decrease item quantities
+- 🗑️ **Remove Items** - Delete individual items from cart
+- 💰 **Auto-calculations** - Real-time cart total updates
+- 📱 **Responsive Design** - Works on desktop, tablet, and mobile
+- 🎨 **Modern UI** - Clean interface
 
-## React Compiler
+## 🚀 Demo
+https://ecommerce-react-website-ten.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+<img width="967" height="911" alt="image" src="https://github.com/user-attachments/assets/ba452625-c389-4f53-9030-5dd63e896e33" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Technologies Used
+
+- **React 19** - Frontend framework
+- **React Router DOM** - Navigation and routing
+- **React Context API** - State management
+- **LocalStorage** - Client-side data persistence
+
+
