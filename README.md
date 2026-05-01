@@ -18,7 +18,7 @@ https://ecommerce-react-website-ten.vercel.app/
 
 ## 📸 Screenshots
 
-<img width="967" height="911" alt="image" src="https://github.com/user-attachments/assets/ba452625-c389-4f53-9030-5dd63e896e33" />
+<img width="617" height="611" alt="image" src="https://github.com/user-attachments/assets/ba452625-c389-4f53-9030-5dd63e896e33" />
 
 
 ## 🛠️ Technologies Used
